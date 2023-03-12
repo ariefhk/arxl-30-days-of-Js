@@ -1,0 +1,21 @@
+{
+  "name": "arxl-30-days-of-js",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ariefhk/arxl-30-days-of-Js.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ariefhk/arxl-30-days-of-Js/issues"
+  },
+  "homepage": "https://github.com/ariefhk/arxl-30-days-of-Js#readme"
+}
